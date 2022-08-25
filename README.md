@@ -1,2 +1,1 @@
-# FASA-Rebuild
-VATSSA FASA Sector Rebuild Project
+## VATSIM SSA | FASA Sector Rebuild Project
