@@ -1,0 +1,13 @@
+Sectorname
+
+ICAO-TYP (Applicable for CTR, ATZ, TMA, CTA, FIR and UIR)
+
+ICAO-VSP-TYP (Applicable where Vertical Separation for Sectors is required where VSP equals LOW, MID or HIGH)
+
+
+Note Field
+
+Date (DD/MM/YYYY) | Source
+
+* Example
+06/09/2022 | ATNS 3D Airspace
