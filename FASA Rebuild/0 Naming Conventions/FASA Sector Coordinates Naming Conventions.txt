@@ -1,0 +1,6 @@
+Note Field
+
+ICAO-TYP | Date (DD/MM/YYYY) | Source
+
+* Example
+FACT-CTR | 06/09/2022 | ATNS 3D Airspace
